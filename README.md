@@ -18,4 +18,4 @@ Camera  | 8MPx, LED Flash
 
 ![Sony Xperia L](http://cdn2.gsmarena.com/vv/pics/sony/sony-xperia-l-01.jpg "Sony Xperia L in black")
 
-This branch is for building CyanogenMod 11 (or Android KitKat 4.4 AOSP based roms) ROMS.
+This Tree is for building Carbon ROM.
