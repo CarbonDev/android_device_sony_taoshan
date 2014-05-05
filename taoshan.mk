@@ -147,7 +147,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     setup_fs \
-    e2fsck \
+    e2fsck
 
 PRODUCT_PACKAGES += \
     gps.msm8960 \
