@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "cr",
+    "repository": "CarbonDev/android_kernel_sony_msm8930",
+    "target_path": "kernel/sony/msm8930",
+    "revision": "kk"
+  },
+  {
+    "remote": "cm",
+    "repository": "CyanogenMod/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "CyanogenMod/android_device_sony_qcom-common",
+    "target_path": "device/sony/qcom-common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "CyanogenMod/android_hardware_sony_DASH",
+    "target_path": "hardware/sony/DASH",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "cr",
+    "repository": "CarbonDev/proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "revision": "kk"
+  }
+]

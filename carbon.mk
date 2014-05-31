@@ -18,9 +18,6 @@ $(call inherit-product, device/sony/common/resources.mk)
 # Inherit from taoshan device
 $(call inherit-product, device/sony/taoshan/taoshan.mk)
 
-# Inherit CM common GSM stuff.
-$(call inherit-product, vendor/carbon/config/common_gsm.mk)
-
 # Inherit some common Carbon stuff.
 $(call inherit-product, vendor/carbon/config/common_phone.mk)
 $(call inherit-product, vendor/carbon/config/common.mk)
