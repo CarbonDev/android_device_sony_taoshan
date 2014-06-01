@@ -1,9 +1,7 @@
 [
   {
-    "remote": "cr",
     "repository": "CarbonDev/android_kernel_sony_msm8930",
-    "target_path": "kernel/sony/msm8930",
-    "revision": "kk"
+    "target_path": "kernel/sony/msm8930"
   },
   {
     "remote": "cm",
@@ -24,9 +22,7 @@
     "revision": "cm-11.0"
   },
   {
-    "remote": "cr",
     "repository": "CarbonDev/proprietary_vendor_sony",
-    "target_path": "vendor/sony",
-    "revision": "kk"
+    "target_path": "vendor/sony"
   }
 ]
