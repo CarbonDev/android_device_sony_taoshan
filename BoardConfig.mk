@@ -138,7 +138,7 @@ TW_MAX_BRIGHTNESS := 255
 TW_NO_USB_STORAGE := true
 
 # External apps on SD
-TARGET_EXTERNAL_APPS = sdcard1
+TARGET_EXTERNAL_APPS = sdcard0
 
 BOARD_SEPOLICY_DIRS += \
     device/sony/taoshan/sepolicy
